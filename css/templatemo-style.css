@@ -15,7 +15,9 @@ http://www.templatemo.com/tm-515-eatery
   }
 
 
-
+.under{
+  text-decoration-line: underline;
+}
   /*---------------------------------------
      TYPOGRAPHY              
   -----------------------------------------*/
